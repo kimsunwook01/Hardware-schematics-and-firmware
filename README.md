@@ -3,7 +3,7 @@ Circuit diagram and basic firmware of each hardware module
 
 시스템을 구성하는 하드웨어를 기능과 역할에 따라 모듈로 구분함.
 
-**모듈**
+**<h2>모듈</h2>**
 
 어항 모니터링 모듈
 - 어항의 수위, 수온, 탁도, ph 등을 측정
